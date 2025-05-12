@@ -1,6 +1,6 @@
 # Experiment 6: Joins
-## Name:SINGAMALA VENKATA SAI KUMAR REDDY
-## Reg.no:212223230208
+## Name:Shrikrishna v
+## Reg.no:212223040198
 ## AIM
 To study and implement different types of joins.
 
